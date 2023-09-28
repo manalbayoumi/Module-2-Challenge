@@ -272,7 +272,8 @@ Sub StockAnalysis()
         ws.Range("q4") = MaxVolume
         
 Next
-      
+https://drive.google.com/file/d/1cOSv-dL9zRlHEYHx-O2dQbEWdl0nTAIB/view?usp=sharing
+https://drive.google.com/file/d/157_XQEE80vl-vl-k5D3ogp2pv99SXGY0/view?usp=sharing
        
        
 End Sub
