@@ -274,7 +274,6 @@ Sub StockAnalysis()
         ws.Range("q4") = MaxVolume
         
 Next
-
        
        
 End Sub
