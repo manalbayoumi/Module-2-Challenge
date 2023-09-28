@@ -140,6 +140,7 @@ Please find my coding for formating for excel file:
 
 ![image](https://github.com/manalbayoumi/Module-2-Challenge/assets/139724159/60aef50f-53ad-44c9-b984-bb09db5a52a9)
 
+
 Coding for alphabetical testing file:
 Sub StockAnalysis()
     Dim Ticker As String
